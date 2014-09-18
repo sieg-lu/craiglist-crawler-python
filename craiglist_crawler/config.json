@@ -1,0 +1,9 @@
+{
+"max_page_searched": "5",
+"search":
+    [
+        { "keyword": "bmw 3", "min_price": "6000", "check_pic": "True" },
+        { "keyword": "benz", "min_price": "6000", "max_price": "7000", "check_pic": "False", "catAbb": "sss" },
+        { "keyword": "infiniti", "min_price": "6000", "max_price": "10000", "check_pic": "True", "catAbb": "sss" }
+    ]
+}
